@@ -1,0 +1,9 @@
+# Contributing
+
+This is a personal portfolio project.
+If you spot a bug or have an improvement idea, feel free to open an issue
+or a pull request. Please keep code consistent with:
+
+- type hints
+- `black` formatting
+- `pytest` tests where applicable

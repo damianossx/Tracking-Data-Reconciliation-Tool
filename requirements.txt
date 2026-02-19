@@ -1,0 +1,5 @@
+pandas
+openpyxl
+ttkbootstrap
+selenium
+requests
